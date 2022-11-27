@@ -39,7 +39,7 @@ remodelYears: years it took to remodel home from built year
 
 ## Conclusions
 - Features affecting house sale price: 
-'GarageCars', 'Exterior1st_Stucco', 'TotRmsAbvGrd', 'Neighborhood_NoRidge', 'SaleType_Con', 'houseAge', 'Neighborhood_Crawfor', 'Exterior2nd_CmentBd', 'Condition1_RRAe', 'LotArea', 'Neighborhood_Veenker', 'TotalSF', 'hasBasement', 'OverallCond', 'OverallQual', 'BsmtFullBath', 'MSSubClass_90', 'Neighborhood_StoneBr', 'Exterior2nd_ImStucc', 'hasGarage', 'MSSubClass_160', 'MSSubClass_120', 'Neighborhood_NridgHt', 'KitchenAbvGr', 'LotFrontage', 'BedroomAbvGr', 'BsmtQual', 'MSSubClass_180'
+'TotalSF', 'OverallQual', 'LotArea', 'BsmtQual', 'GarageCars', 'houseAge', 'Neighborhood_NridgHt', 'OverallCond', 'hasBasement', 'Neighborhood_StoneBr', 'TotRmsAbvGrd', 'BedroomAbvGr', 'Neighborhood_NoRidge', 'BsmtFullBath', 'Neighborhood_Crawfor', 'MSSubClass_180', 'Exterior2nd_ImStucc', 'MSSubClass_160', 'KitchenAbvGr', 'MSSubClass_120', 'Neighborhood_Veenker', 'Exterior2nd_CmentBd', 'LotFrontage', 'MSSubClass_90', 'Exterior1st_Stucco', 'Condition1_RRAe', 'hasGarage', 'SaleType_Con', 'Exterior1st_ImStucc'
 
 - Most significant features:
     * TotalSF: total surface area in square feet : 0.419147
